@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm binx6.
 
-<!--
-**binx6/binx6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🆚 An independent amateur developer, who keep on truth-seeking, pragmatic and pioneering spirit.
+- 🌠 Fall in love with Project Shrine Maiden or called Touhou Project.
 
-Here are some ideas to get you started:
+![Stats](https://github-readme-stats.vercel.app/api?username=binx6&show_icons=true&icon_color=FCCEBC&title_color=FCCEBC)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=binx6&layout=compact&title_color=FCCEBC&hide=javascript,html,css)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, you're no. ![Visitor Count](https://profile-counter.glitch.me/binx6/count.svg) visitor now!
+
+### Honorificabilitudinitatibus
+
+![](https://komarev.com/ghpvc/?username=binx6)
+![](https://v1.hitokoto.cn/?encode=text)
