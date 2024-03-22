@@ -12,4 +12,4 @@ Currently, you're no. ![Visitor Count](https://profile-counter.glitch.me/binx6/c
 
 ![](https://komarev.com/ghpvc/?username=binx6)
 ![](https://v2.jinrishici.com/one.svg?font-size=20&spacing=2&color=pink)
-<img src="https://api.yimian.xyz/img"/>
+<img src="https://img.xjh.me/random_img.php"/>
