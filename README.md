@@ -11,4 +11,4 @@ Currently, you're no. ![Visitor Count](https://profile-counter.glitch.me/binx6/c
 ### Honorificabilitudinitatibus
 
 ![](https://komarev.com/ghpvc/?username=binx6)
-![](https://v1.hitokoto.cn/?encode=text)
+![](https://v2.jinrishici.com/one.svg?font-size=20&spacing=2&color=pink)
