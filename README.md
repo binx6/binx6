@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm binx6.
 
-- 🆚 An independent amateur developer, who keep on truth-seeking, pragmatic and pioneering spirit.
+- 🆚 An independent amateur developer (Although I used to be a professional), who keep on truth-seeking, pragmatic and pioneering spirit.
 - 🌠 Fall in love with Project Shrine Maiden or called Touhou Project.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=binx6&show_icons=true&icon_color=FCCEBC&title_color=FCCEBC)
